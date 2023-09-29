@@ -1,0 +1,6 @@
+Belmin|123|Belmin|Kurtanovic|Menadzer
+Menadzer1|456|Milan|Milanovic|Menadzer
+Menadzer2|789|Jovan|Jovanovic|Menadzer
+Petar|123|Petar|Petrovic|Prodavac
+Prodavac1|456|Dejan|Dejanovic|Prodavac
+Prodavac2|789|Ivan|Ivanovic|Prodavac
